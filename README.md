@@ -1,2 +1,2 @@
 # Food-Order-App
-![Screenshot](screenshot.png)j
+![Screenshot](screenshot.png)
